@@ -7,3 +7,5 @@ Repo includes:
 
 Final write up
 All scripts used
+Images of Visualizations
+.csv files of all data used, separate files are from separate parts of the cleaning process
